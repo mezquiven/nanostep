@@ -3,13 +3,13 @@ We can use the print function to display a message to the user.
 print("One nanostep forward is better than no step at all.")
 ```
 
-We can put the value inside a variable which will make the code readable
+We can put the value inside a variable which will make the code readable.
 ```python
 message = "Experimenting with a programming language is very fun."
 print(message)
 ```
 
-There are other ways of using print like by separating variables
+There are other ways of using print like by separating variables.
 ```python
 name = "Migrand"
 level = 206
