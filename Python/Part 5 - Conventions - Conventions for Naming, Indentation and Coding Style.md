@@ -6,7 +6,7 @@ AddTwoNumbers
 GRAVITY
 ```
 
-In C or Python, variable names are usually named just like in the first example. So variable names can be customer_age, student_address, employee_id and so on. In C#, C++ and other programming languages, the second example is used in naming variables and the third one is used for functions. Different cases for different names can be helpful in identifying if the name is used for a variable, function, class, etc.
+In C or Python, variable names are usually named just like in the first example. So variable names can be customer_age, student_address, employee_id and so on. In C#, C++ and other programming languages, the second example is used in naming variables and functions while the third one is used for classes. Different cases for different names can be helpful in identifying if the name is used for a variable, function, class, etc.
 
 In C, using a variable name with all of its characters in uppercase is used for a constant value. It means that the variable is not going to change in value later on. It can be used for variables like gravity or pi. This is just a convention so it is up to you if you will follow it or not.
 
@@ -68,16 +68,18 @@ int main() {
 }
 ```
 
+Whatever style you choose depends on what is comfortable to you but consistent use of the style you have chosen will make things readable.
+
 Python uses indentation to know which lines of code are part of a function or not but we can also apply the use of empty lines to make the code readable.
 
-Fewer lines is needed when we combine calculation together.
+Fewer lines is needed when we combine calculations together.
 ```python
 num1 = 32
 num2 = 85
 print("The value is: ", num1 + num2)
 ```
 
-More lines is needed if we want to divide larger chunks into smaller chunks but is more readable.
+More lines is needed if we want to divide larger chunks into smaller chunks but is more readable. We might need to use more variables.
 ```python
 
 num1 = 32
