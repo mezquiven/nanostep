@@ -29,3 +29,17 @@ player_class = "assassin"
 if player_health <= 25 && player_level >= 20 && player_class == "mage":
     print("Welcome to the Forbidden Library of Hellscythe.")
 ```
+
+We can also use a single value or a single variable and nothing else to check if it is true or not.
+```python
+if True:
+    print("This will execute because the condition is true.")
+```
+
+We can use the variable to check states.
+```python
+is_player_still_alive = 0
+
+if is_player_still_alive:
+    print("The player is still alive.")
+```

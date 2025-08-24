@@ -20,22 +20,23 @@ Basics
 19. And Operator
 20. Or Operator
 21. Assignment Operator
-22. Order of Precedence and Prioritizing Computations
-23. Input Function
-24. Type Conversion
-25. If Else
-26. Else If
-27. Multiple If Statements and Multiple Else If Statements
-28. Nested If Statements and One If Statement with Multiple Conditions
-29. While
-30. For
-31. Nested For Loops
-32. Match
-33. Continue
-34. Break
-35. Arrays
-36. Lists
-37. Function without Arguments
-38. Parameters and Arguments
-39. Function with One Argument
-40. Function with Multiple Arguments
+22. Other Operators (and, or, is, not, in)
+23. Order of Precedence and Prioritizing Computations
+24. Input Function
+25. Type Conversion
+26. If Else
+27. Else If
+28. Multiple If Statements and Multiple Else If Statements
+29. Nested If Statements and One If Statement with Multiple Conditions
+30. While
+31. For
+32. Nested For Loops
+33. Match
+34. Continue
+35. Break
+36. Arrays
+37. Lists
+38. Function without Arguments
+39. Parameters and Arguments
+40. Function with One Argument
+41. Function with Multiple Arguments
